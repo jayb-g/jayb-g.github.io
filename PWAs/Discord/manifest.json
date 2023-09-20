@@ -52,7 +52,7 @@
     }
   ],
   "lang": "en-US",
-  "start_url": "./index.html",
+  "start_url": "https://discord.com",
   "display": "standalone",
   "display_override": ["window-controls-overlay"],
   "background_color": "#36393f",
