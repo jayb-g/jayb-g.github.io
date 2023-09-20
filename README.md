@@ -1,3 +1,3 @@
 # jayb-g.github.io
 
-Adding PWA manifests for websites that don't natively support PWAs
+Collection of PWA manifests for websites that don't natively support PWAs
